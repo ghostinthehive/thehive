@@ -1,0 +1,23 @@
+{
+  "name": "thehive",
+  "version": "1.0.0",
+  "description": "https://ghostinthehive.github.io/thehive/",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d kb"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://ghostinthehive.github.io/thehive",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghostinthehive/thehive.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ghostinthehive/thehive/issues"
+  }
+}

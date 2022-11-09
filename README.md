@@ -8,4 +8,4 @@ Made with ``` npm gh-pages ```
 * push new articles,
 ``` npm run deploy ```
 
-https://pnx9.github.io/thehive/
+https://ghostinthehive.github.io/thehive/
